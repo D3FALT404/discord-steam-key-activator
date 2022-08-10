@@ -6,8 +6,8 @@ It searches new messages for steam keys and if it finds match, It activates it.
 ### Cookies
 1. In your web browser, log in to the Steam with "Remember me" checked.
 1. Install the [EditThisCookie](http://www.editthiscookie.com/) browser extension.
-1. While viewing the Steam page, open the EditThisCookie extension window, change the URL to `hhttps://store.steampowered.com/account/registerkey`, and click the export button:
-1. create in project folder `cookies.json`  and paste in your cookies.
+1. While viewing the Steam page, open the EditThisCookie extension window, change the URL to `https://store.steampowered.com/account/registerkey`, and click the export button:
+1. Create in project folder `cookies.json`  and paste in your cookies.
 ### Discord
 ___
 1. Change appsettings.json token to discord token
